@@ -1,5 +1,5 @@
 # pyro
-Common tooling for Ember and Blaze 
+Common tooling for [Ember](https://github.com/sckelemen/ember) and [Blaze](https://github.com/sckelemen/blaze) 
 
 
 # Abstract
